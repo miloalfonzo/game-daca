@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+.canvas{
+    display: flex;
+    justify-content: center;
+    margin-top: 30%;
+}
+
+#background,
+#foreground {
+    position: absolute;
+}
